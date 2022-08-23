@@ -1,0 +1,6 @@
+{
+    "extension": ["ts"],
+    "require": "ts-node/register",
+    "spec": "test/*.e2e-spec.ts",
+    "timeout": "20000"
+}
